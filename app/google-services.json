@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "181514905971",
+    "project_id": "login-6131a",
+    "storage_bucket": "login-6131a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181514905971:android:9127002773df754b0e3d06",
+        "android_client_info": {
+          "package_name": "com.aswin.firebase_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181514905971-4tqk2h2208o1bh62clonsgts924sgmtf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDby0pxwYCmmQmKLMhKOsj3H71PgAzhP2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181514905971-4tqk2h2208o1bh62clonsgts924sgmtf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181514905971:android:52270e0a96cc46c80e3d06",
+        "android_client_info": {
+          "package_name": "com.zentrain.log"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181514905971-4tqk2h2208o1bh62clonsgts924sgmtf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDby0pxwYCmmQmKLMhKOsj3H71PgAzhP2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181514905971-4tqk2h2208o1bh62clonsgts924sgmtf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
